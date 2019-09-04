@@ -1,0 +1,8 @@
+__pycache__
+/.idea
+/build
+/secret/*
+!/secret/.gitkeep
+/venv
+/venv/
+venv/
